@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "pr_1_ISRPO_Starichenkova/1.0.0": {
+        "runtime": {
+          "pr_1_ISRPO_Starichenkova.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pr_1_ISRPO_Starichenkova/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
